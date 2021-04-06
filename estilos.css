@@ -21,3 +21,9 @@ body{
     border: 1px solid black;
     margin: 15px auto;
 }
+
+.header {
+    background: #FFFBB9;
+    border: 1px solid #999999;
+    padding: 20px;
+}
