@@ -32,3 +32,10 @@ body{
     background: #CCC;
     padding: 5px 15px;
 }
+
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font:  bold 14px verdana;
+    display: inline-block;
+}
