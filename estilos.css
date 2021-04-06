@@ -27,3 +27,8 @@ body{
     border: 1px solid #999999;
     padding: 20px;
 }
+
+.menu {
+    background: #CCC;
+    padding: 5px 15px;
+}
