@@ -22,10 +22,14 @@ body{
     margin: 15px auto;
 }
 
-.header {
+.cabecera {
     background: #FFFBB9;
     border: 1px solid #999999;
     padding: 20px;
+}
+
+.cabecera h1 {
+    text-align: left;
 }
 
 .menu {
