@@ -35,6 +35,7 @@ body{
 .menu {
     background: #CCC;
     padding: 5px 15px;
+    text-align: left;
 }
 
 .menu li {
