@@ -18,7 +18,6 @@ body{
 
 .agrupar {
     width: 960px;
-    background: green;
-    margin-top: 200px;
-    margin-left: auto;
+    border: 1px solid black;
+    margin: 15px auto;
 }
