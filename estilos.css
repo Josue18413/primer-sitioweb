@@ -49,9 +49,13 @@ body{
     margin: 20px;
     width: 600px;
     border: 1px solid black;
+    float: left;
+    background: yellow;
 } 
 
 .columna {
     width: 200px;
+    float: left;
     border: 1px solid black;
+    background: yellow;
 }
