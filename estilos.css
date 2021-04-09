@@ -48,16 +48,12 @@ body{
 .seccion {
     margin: 20px;
     width: 600px;
-    border: 1px solid black;
     float: left;
-    background: yellow;
 } 
 
 .columna {
     width: 300px;
     float: left;
-    border: 1px solid black;
-    background: yellow;
     margin: 20px 0;
 }
 
