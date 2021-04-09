@@ -51,6 +51,13 @@ body{
     float: left;
 } 
 
+article {
+    background: #fffbcc;
+    border: 1px solid #999
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
 .columna {
     width: 300px;
     float: left;
