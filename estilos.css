@@ -54,10 +54,11 @@ body{
 } 
 
 .columna {
-    width: 200px;
+    width: 300px;
     float: left;
     border: 1px solid black;
     background: yellow;
+    margin: 20px 0;
 }
 
 .pie {
