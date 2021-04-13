@@ -49,6 +49,7 @@ body{
     margin: 20px;
     width: 600px;
     float: left;
+    background: white;
 } 
 
 article {
@@ -71,6 +72,13 @@ article footer {
     width: 300px;
     float: left;
     margin: 20px 0;
+}
+
+.columna blockquote {
+    border: 1px solid black;
+    padding: 40px;
+    background: #FFFBB9;
+    margin-bottom: 20px;
 }
 
 .pie {
