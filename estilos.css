@@ -75,10 +75,13 @@ article footer {
 
 .pie {
     clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: #ffffff;
 }
 
 img {
     width: 80px;
     display: block;
-    margin: auto;
+    margin: 20px auto;
 }
