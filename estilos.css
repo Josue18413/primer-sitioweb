@@ -53,9 +53,13 @@ body{
 
 article {
     background: #fffbcc;
-    border: 1px solid #999
+    border: 1px solid #999;
     padding: 20px;
     margin-bottom: 15px;
+}
+
+article footer {
+    text-align: right; 
 }
 
 .columna {
