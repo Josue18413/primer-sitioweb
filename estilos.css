@@ -64,6 +64,7 @@ time {
 
 article footer {
     text-align: right; 
+    margin-top: 20px;
 }
 
 .columna {
@@ -74,4 +75,10 @@ article footer {
 
 .pie {
     clear: both;
+}
+
+img {
+    width: 80px;
+    display: block;
+    margin: auto;
 }
